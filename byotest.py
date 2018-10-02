@@ -38,7 +38,22 @@ test_not_equal(number_of_evens([0]), 0)
 #test_between([1:5] ,2)  
     
           
+ #new test - test between (example of testing in a range):-
  
+ #https://www.w3resource.com/python-exercises/python-functions-exercise-6.php
+ 
+#def test_range(n):
+ #   if n in range(3,9):
+  #      print( " %s is in the range"%str(n))
+   # else :
+    #    print("The number is outside the given range.")
+#test_range(5)
+
+
+#Other python tests are on this website:
+
+#https://www.w3resource.com/python-exercises/python-functions-exercises
+
      
     #--CHALLENGES--
     #Then try the challenges that are at the bottom of this page. Firstly, try writing some tests that fail the tests_not_equal and the test_is_in methods to make sure you understand how to use them properly. 
@@ -51,7 +66,7 @@ test_not_equal(number_of_evens([0]), 0)
 
 
 
-
+#--CHALLENGES
 
 
 #Challenge 1

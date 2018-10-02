@@ -78,4 +78,10 @@ Write test methods for test_not_in which tests than an item is not in a collecti
  Challenge Hint
 Put your test methods in a python file called byotest.py (byo stands for 'build your own'). You should now be able to import byotest when you want to write tests. We will use your new test framework in the upcoming Mini Project.
 
+
+#Other Python tests can be found on this website:
+
+https://www.w3resource.com/python-exercises/python-functions
+
+
   
